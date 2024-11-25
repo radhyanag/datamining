@@ -5,7 +5,7 @@ from textblob import TextBlob  # Contoh untuk analisis sentimen sederhana
 import urllib.request  # Untuk mengunduh file
 
 # Unduh model CRF jika belum ada
-MODEL_URL = "https://raw.githubusercontent.com/radhyanagf/datamining/main/all_indo_man_tag_corpus_model.crf.tagger"
+MODEL_URL = "https://raw.githubusercontent.com/radhyanag/datamining/main/all_indo_man_tag_corpus_model.crf.tagger"
 MODEL_PATH = "all_indo_man_tag_corpus_model.crf.tagger"
 
 try:
