@@ -1,3 +1,7 @@
+pip install streamlit textblob
+
+streamlit run nama_file.py
+
 import streamlit as st
 from textblob import TextBlob
 
