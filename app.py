@@ -2,6 +2,8 @@ pip install streamlit textblob
 
 streamlit run nama_file.py
 
+pip install -r requirements.txt
+
 import streamlit as st
 from textblob import TextBlob
 
